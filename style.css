@@ -250,23 +250,24 @@ header{
 @media screen and (max-width: 600px) {
     .btn{
         align-items: center;
-    }
-    .title{
         margin-left: 10px;
     }
-    .title h1{
-        font-size: 75px;
+    .title{
         align-items: center;
-        margin-right: 10px;
+    }
+    .title h1{
+        font-size: 65px;
+        align-items: center;
+        margin-right:5px;
     }
     .title h3{
-        font-size: 23px;
+        font-size: 20px;
         align-items: center;
     }
     .title p{
-        font-size: 20px;
+        font-size: 18px;
         align-items: center;
-        margin-left: 10px;
+        margin-left: 5px;
     }
     .logo{
         margin-left: -15rem;
